@@ -34,8 +34,9 @@ opacity: 0px;
 
 }
 .head p{
-    margin-top: 10px;
-    width: 375px;
+color: #FFF5E1;
+margin-top: 10px;
+width: 375px;
 height: 92px;
 gap: 0px;
 opacity: 0px;
@@ -43,14 +44,25 @@ background: #3C3A39;
 
 }
 .head img{
-    width: Hug (40px)px;
+display: flex;
+align-items: right;
+margin-right: 50%;
+ width: Hug (40px)px;
 height: Hug (40px)px;
 top: 4px;
-left: 311px;
+left: 511px;
 padding: 8px 0px 0px 0px;
 gap: 0px;
 border-radius: 8px 0px 0px 0px;
 opacity: 0px;
+
+width: 375px;
+height: 48px;
+top: 44px;
+padding: 2px 24px 2px 12px;
+gap: 0px;
+opacity: 0px;
+
 }
 
 .menu-container h2{
