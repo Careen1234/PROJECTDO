@@ -1,6 +1,88 @@
-header{
-    background-color: #3C3A39;
+.content{
+background: #3C3A39;
+ width: Hug(375)px;
+height: Hug(44)px;
+gap: 0px;
+opacity: 0px;
+
 }
-li{
-    width: 375px; height: 92px; place-items: right;
+
+.menu-container{
+ width: Hug (375px)px;
+height: Hug (590px)px;
+top: 92px;
+padding: 120px 24px 120px 24px;
+gap: 12px;
+opacity: 0px;
+
+    background: #1C1A19;
+
+}
+.head{
+ background: #3C3A39; 
+ width: Hug(375)px;
+height: Hug(48)px;
+top: 44px;
+padding: 2px 24px 2px 12px;
+gap: 0px;
+opacity: 0px;
+
+}
+.head a{
+    margin-left: 70%;
+    margin-top: 10px;
+
+}
+.head p{
+    margin-top: 10px;
+    width: 375px;
+height: 92px;
+gap: 0px;
+opacity: 0px;
+background: #3C3A39;
+
+}
+.head img{
+    width: Hug (40px)px;
+height: Hug (40px)px;
+top: 4px;
+left: 311px;
+padding: 8px 0px 0px 0px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+}
+
+.menu-container h2{
+  color: #FFF5E1;
+
+   
+}
+.menu-container h1{
+    color: aliceblue;
+  
+}
+.menu-container h4{
+color: #FF6B00;
+width: 327px;
+height: 124px;
+gap: 0px;
+opacity: 0px;
+font-family: Crete Round;
+font-size: 56px;
+font-weight: 400;
+line-height: 64px;
+letter-spacing: 0.3700000047683716px;
+text-align: left;
+
+
+}
+.menu-container p{
+color: #FFFFFF;
+width: 327px;
+height: 123px;
+gap: 0px;
+opacity: 0px;
+
+
 }
