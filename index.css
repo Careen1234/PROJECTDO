@@ -1,22 +1,19 @@
 .content{
 background: #3C3A39;
- width: Hug(375)px;
+width: Hug(375)px;
 height: Hug(44)px;
 gap: 0px;
 opacity: 0px;
 
 }
-
 .menu-container{
- width: Hug (375px)px;
+width: Hug (375px)px;
 height: Hug (590px)px;
 top: 92px;
 padding: 120px 24px 120px 24px;
 gap: 12px;
 opacity: 0px;
-
-    background: #1C1A19;
-
+background: #1C1A19;
 }
 .head{
  background: #3C3A39; 
@@ -26,12 +23,10 @@ top: 44px;
 padding: 2px 24px 2px 12px;
 gap: 0px;
 opacity: 0px;
-
 }
 .head a{
     margin-left: 70%;
     margin-top: 10px;
-
 }
 .head p{
 color: #FFF5E1;
@@ -41,13 +36,12 @@ height: 92px;
 gap: 0px;
 opacity: 0px;
 background: #3C3A39;
-
 }
 .head img{
 display: flex;
 align-items: right;
 margin-right: 50%;
- width: Hug (40px)px;
+width: Hug (40px)px;
 height: Hug (40px)px;
 top: 4px;
 left: 511px;
@@ -55,24 +49,12 @@ padding: 8px 0px 0px 0px;
 gap: 0px;
 border-radius: 8px 0px 0px 0px;
 opacity: 0px;
-
-width: 375px;
-height: 48px;
-top: 44px;
-padding: 2px 24px 2px 12px;
-gap: 0px;
-opacity: 0px;
-
 }
-
 .menu-container h2{
-  color: #FFF5E1;
-
-   
+ color: #FFF5E1; 
 }
 .menu-container h1{
-    color: aliceblue;
-  
+color: aliceblue;
 }
 .menu-container h4{
 color: #FF6B00;
@@ -86,8 +68,6 @@ font-weight: 400;
 line-height: 64px;
 letter-spacing: 0.3700000047683716px;
 text-align: left;
-
-
 }
 .menu-container p{
 color: #FFFFFF;
@@ -95,6 +75,4 @@ width: 327px;
 height: 123px;
 gap: 0px;
 opacity: 0px;
-
-
 }
